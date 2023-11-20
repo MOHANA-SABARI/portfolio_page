@@ -1,1 +1,2 @@
-# portfolio_page
+# Dynamic-Portfolio
+Dynamic portfolio for my own use
